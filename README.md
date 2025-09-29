@@ -1,2 +1,2 @@
 # DBD
-A public database about deadlocks in big data systems
+A public database on deadlocks in big data systems
